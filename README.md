@@ -13,6 +13,6 @@ This project aims to use a URL that points to a zip file containing multiple JSO
 # Services used
 * Amazon S3: Amazon S3 is an object storage service that provides manufacturing scalability, data availability, security, and performance.
 * AWS IAM: This is nothing but identity and access management which enables us to manage access to AWS services and resources securely.
-* AWS DocumentDB: AWS DocumentDB is a fully managed, non-relational database service that is compatible with MongoDB workloads
+* AWS DocumentDB: AWS DocumentDB is a fully managed, non-relational database service that is compatible with MongoDB workloads.
 * AWS EC2: Enables you to launch and manage virtual machines, known as instances.
 * Amazon SageMaker: An AWS SageMaker Notebook is essentially a Jupyter Notebook in which you can run Python code.
