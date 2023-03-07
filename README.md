@@ -10,7 +10,7 @@ This project aims to use a URL that points to a zip file containing multiple JSO
 * Create a DocumentDB instance and connect it with an EC2 instance in the same VPC. Also, create a SageMaker instance to connect with DocumentDB.
 * Load the data from S3 into Amazon DocumentDB (MongoDB).
 
-# Services we will be using
+# Services used
 * Amazon S3: Amazon S3 is an object storage service that provides manufacturing scalability, data availability, security, and performance.
 * AWS IAM: This is nothing but identity and access management which enables us to manage access to AWS services and resources securely.
 * AWS DocumentDB: AWS DocumentDB is a fully managed, non-relational database service that is compatible with MongoDB workloads
